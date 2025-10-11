@@ -1,10 +1,14 @@
 # Python 3.14 Free-Threading Build for Android ARM64
 
-**Official Python 3.14 binaries with GIL disabled** for Android ARM64 (aarch64).
+**Pre-built binaries with GIL disabled** for Android ARM64 (aarch64).
+
+Compiled from official CPython 3.14.0 source code.
 
 ## What is this?
 
-This repository contains **pre-built binaries** of Python 3.14.0 compiled with `--disable-gil` flag for Android ARM64 devices. This enables true multi-threaded parallelism in Python on Android.
+This repository contains **pre-built binaries** of Python 3.14.0 compiled from **official CPython source code** with `--disable-gil` flag for Android ARM64 devices. This enables true multi-threaded parallelism in Python on Android.
+
+**Important:** These are NOT official Python.org binaries. Official Python 3.14 Android binaries do NOT include free-threading support. These binaries were custom-built from official source to enable no-GIL mode.
 
 ## Why Free-Threading?
 
@@ -181,7 +185,7 @@ Want to build from source? See [BUILD.md](BUILD.md) for complete instructions.
 
 Python 3.14 is distributed under the [PSF License](https://docs.python.org/3/license.html).
 
-These binaries are built from official CPython source code without modifications.
+These binaries are built from official CPython 3.14.0 source code without modifications, using the `--disable-gil` configure flag.
 
 ## Resources
 
